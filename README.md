@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-This repository implements a sentiment analysis model to classify Zomato restaurant reviews as positive or negative. It utilizes the Naive Bayes algorithm and includes data preprocessing, feature extraction, model training, and evaluation.
+This repository implements a sentiment analysis model to classify Zomato reviews as positive or negative. It utilizes the Naive Bayes algorithm and includes data preprocessing, feature extraction, model training, and evaluation.
 
 ## Features:
 
